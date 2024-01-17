@@ -31,8 +31,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <FxCompile Include="Shader\10-PixelShaderTips.hlsl">
-      <Filter>Shader</Filter>
-    </FxCompile>
+    <None Include="Shader\10-PixelShaderTips.hlsl" />
   </ItemGroup>
 </Project>
